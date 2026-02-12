@@ -1,0 +1,54 @@
+
+Top
+- H1: Welcome to My Personal Homepage
+
+Section 1: About Me
+- 1 paragraph introducing myself (name, Eritrea, Computer Science)
+- Goal: work in business-based technology
+- Use <strong>, <em>, and <mark>
+
+Section 2: Image
+- Image: Fiat Tagliero Building in Asmara
+- Include alt text
+- Short explanation about my neighborhood
+- Mention image source
+
+Section 3: Lists
+- UL (square bullet): hobbies
+  - Watching soccer games
+  - Traveling in nature
+  - Helping others
+- OL: future goals 
+  - Work in business-based technology
+  - Develop systems for businesses
+  - Continue learning technical and business skills
+
+Section 4: Favorite Songs Table
+- Table with <thead> and <tbody>
+- Use colspan in header
+- Songs:
+  - Lula – Yemane Barya – 1980s
+  - Don’t Worry, Be Happy – Bobby McFerrin – 1988
+- Short explanation below table
+
+Section 5: External Link
+- Link to W3Schools
+- Short explanation why I use it
+
+
+----------------------------------------
+Reflection
+
+1. What changed between your Stage 1 outline and your final HTML? Why did you change it?
+I added CSS styling to make the webpage more attractive. I also changed my table from movies to songs because it represents me better.
+
+2. What was the hardest part to implement correctly, and why?
+The hardest part was fixing the image and table background color. I had to make sure the image displayed correctly and the CSS worked properly.
+
+3. Describe one mistake you made and how you fixed it.
+One mistake I made was not closing a list tag correctly. I fixed it by checking my HTML code and adding the missing closing tag.
+
+______________________________________________________
+AI Disclaimer 
+
+I used ChatGPT as a learning tool to help me understand HTML structure and fix small coding errors. All personal content, ideas, and final decisions in this project are my own work. I reviewed and edited the code to make sure I understand it before submitting.
